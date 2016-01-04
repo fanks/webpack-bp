@@ -1,0 +1,2549 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Route",
+				"RouteHandler"
+			],
+			[
+				"get",
+				"getElementById('example"
+			],
+			[
+				"ex",
+				"example	(index.html)"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"findByIdAnd",
+				"findByIdAndUpdate	(users.js)"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"att",
+				"attacks2"
+			],
+			[
+				"add",
+				"addEvent"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"elap",
+				"elapsedSeconds"
+			],
+			[
+				"upda",
+				"updateInterval"
+			],
+			[
+				"tim",
+				"timePlayed"
+			],
+			[
+				"l",
+				"lineup"
+			],
+			[
+				"random",
+				"randomSeed"
+			],
+			[
+				"line",
+				"lineups	(prepare.js)"
+			],
+			[
+				"time",
+				"timeLeft"
+			],
+			[
+				"lin",
+				"lineupMaxTime"
+			],
+			[
+				"playesr",
+				"players	(team.js)"
+			],
+			[
+				"de",
+				"decrease"
+			],
+			[
+				"tick",
+				"tickLength	(match.js)"
+			],
+			[
+				"cons",
+				"constructor	(events.js)"
+			],
+			[
+				"a",
+				"away"
+			],
+			[
+				"clone",
+				"cloneDeep	(player.js)"
+			],
+			[
+				"atta",
+				"attacks	(prepare.js)"
+			],
+			[
+				"skil",
+				"skillGroups	(lineup.js)"
+			],
+			[
+				"mat",
+				"matchData"
+			],
+			[
+				"Event",
+				"EventTrigger"
+			],
+			[
+				"event",
+				"eventTrigger"
+			],
+			[
+				"wi",
+				"weightSum"
+			],
+			[
+				"ev",
+				"events_list"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"awa",
+				"awayOffensive"
+			],
+			[
+				"init",
+				"initPlayers"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"in",
+				"inTransition"
+			],
+			[
+				"batt",
+				"battle"
+			],
+			[
+				"marg",
+				"marginBottom	(play.js)"
+			],
+			[
+				"col",
+				"column	(play.js)"
+			],
+			[
+				"al",
+				"alignItems	(play.js)"
+			],
+			[
+				"Start",
+				"StartButton"
+			],
+			[
+				"creat",
+				"createClass	(play.js)"
+			],
+			[
+				"ge",
+				"generate"
+			],
+			[
+				"exp",
+				"exports	(player.js)"
+			],
+			[
+				"str",
+				"strength	(player.js)"
+			],
+			[
+				"abil",
+				"abilities"
+			],
+			[
+				"prop",
+				"properties	(player.js)"
+			],
+			[
+				"Pl",
+				"PlayerAbilites"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"Player",
+				"PlayerAbilites	(ability.js)"
+			],
+			[
+				"ab",
+				"ability"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"at",
+				"attacker	(team.js)"
+			],
+			[
+				"ski",
+				"skillsGroups"
+			],
+			[
+				"def",
+				"defenders"
+			],
+			[
+				"playr",
+				"players	(team.js)"
+			],
+			[
+				"even",
+				"eventLayer"
+			],
+			[
+				"off",
+				"offsetX"
+			],
+			[
+				"pen",
+				"penalty	(out.json)"
+			],
+			[
+				"chat",
+				"chatEnabled"
+			],
+			[
+				"bat",
+				"battleEnabled	(footer.js)"
+			],
+			[
+				"ba",
+				"battleEnabled	(footer.js)"
+			],
+			[
+				"fl",
+				"flexWrap"
+			],
+			[
+				"fle",
+				"flexDirection"
+			],
+			[
+				"com",
+				"componentDidMount	(play.js)"
+			],
+			[
+				"flex",
+				"flexDirection	(play.js)"
+			],
+			[
+				"MAX",
+				"MAX_MARGIN"
+			],
+			[
+				"Ma",
+				"MAX_WIDTH"
+			],
+			[
+				"per",
+				"perferredScale"
+			],
+			[
+				"row",
+				"rowCount"
+			],
+			[
+				"rest",
+				"result"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"let",
+				"letterWidth"
+			],
+			[
+				"ali",
+				"alignSelf	(play.js)"
+			],
+			[
+				"word",
+				"wordIndex"
+			],
+			[
+				"bo",
+				"borderRadius	(footer.js)"
+			],
+			[
+				"alig",
+				"alignItems	(play.js)"
+			],
+			[
+				"battle",
+				"battleLetters"
+			],
+			[
+				"cale",
+				"calculateScore"
+			],
+			[
+				"padding",
+				"paddingBottom	(message.js)"
+			],
+			[
+				"align",
+				"alignSelf	(index.js)"
+			],
+			[
+				"Word",
+				"WordRow"
+			],
+			[
+				"scre",
+				"screenWidth"
+			],
+			[
+				"R",
+				"round〔function〕"
+			],
+			[
+				"le",
+				"letters"
+			],
+			[
+				"rea",
+				"ready	(word.js)"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"key",
+				"keyboardSpace"
+			],
+			[
+				"update",
+				"updateKeyboardSpace"
+			],
+			[
+				"ke",
+				"keyboardSpace"
+			],
+			[
+				"k",
+				"keyboardSpace"
+			],
+			[
+				"red",
+				"redirectApp"
+			],
+			[
+				"padd",
+				"paddingTop"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"border",
+				"borderWidth	(index.js)"
+			],
+			[
+				"b",
+				"backgroundColor	(index.ios.js)"
+			],
+			[
+				"C",
+				"CHAT_DATA"
+			],
+			[
+				"Chat",
+				"ChatInputRow"
+			],
+			[
+				"cha",
+				"chatInput	(index.js)"
+			],
+			[
+				"list",
+				"listPadding"
+			],
+			[
+				"scro",
+				"scrollEnabled	(index.ios.js)"
+			],
+			[
+				"Scro",
+				"ScrollView	(index.ios.js)"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"T",
+				"TouchableWithoutFeedback"
+			],
+			[
+				"text",
+				"textAlign	(index.js)"
+			],
+			[
+				"js",
+				"justifyContent	(index.ios.js)"
+			],
+			[
+				"bor",
+				"borderWidth"
+			],
+			[
+				"bord",
+				"borderWidth	(index.js)"
+			],
+			[
+				"ROW",
+				"ROW_CATEGORY"
+			],
+			[
+				"conti",
+				"container	(index.ios.js)"
+			],
+			[
+				"crea",
+				"createClass"
+			],
+			[
+				"render",
+				"renderFooter"
+			],
+			[
+				"tex",
+				"textInput"
+			],
+			[
+				"ip",
+				"inputStyle"
+			],
+			[
+				"fon",
+				"fontSize	(index.ios.js)"
+			],
+			[
+				"back",
+				"backgroundColor	(index.ios.js)"
+			],
+			[
+				"Naviga",
+				"NavigatorIOS"
+			],
+			[
+				"Navia",
+				"NavigatorIOS	NavigatorIOS"
+			],
+			[
+				"th",
+				"thumbnail"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"load",
+				"loadDocument"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"ren",
+				"renderCategory"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"rel",
+				"reload"
+			],
+			[
+				"site",
+				"sites_spreadsheet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 385,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 1909,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/page1.js",
+			"settings":
+			{
+				"buffer_size": 310,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client.sublime-project",
+			"settings":
+			{
+				"buffer_size": 440,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/index.js",
+			"settings":
+			{
+				"buffer_size": 479,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/toomas/dev/orti/webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 1336,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 18,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/screen.scss",
+			"settings":
+			{
+				"buffer_size": 27,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/toomas/dev/orti/package.json",
+			"settings":
+			{
+				"buffer_size": 1868,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package control",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sul",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"subli",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packacge",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 272.0,
+		"history":
+		[
+			"sublime.log_indexing(True)",
+			"view.encoding()",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"SFTP",
+			"sftp",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/toomas/dev/webpack-bp/client"
+	],
+	"file_history":
+	[
+		"/Users/toomas/dev/orti/client-proj.sublime-project",
+		"/Users/toomas/dev/sll-learn/sll-learn.js",
+		"/Users/toomas/dev/webpack-bp/package.json",
+		"/Users/toomas/dev/webpack-bp/app.js",
+		"/Users/toomas/dev/webpack-bp/page2.js",
+		"/Users/toomas/dev/webpack-bp/page1.js",
+		"/Users/toomas/dev/orti/webpack.config.js",
+		"/Users/toomas/Downloads/noname.txt",
+		"/Users/toomas/dev/orti/client/js/models/referral.js",
+		"/Users/toomas/dev/orti/client/js/models/event.js",
+		"/Users/toomas/dev/orti/client/js/router.js",
+		"/Users/toomas/dev/orti/client/js/app/login.js",
+		"/Users/toomas/dev/orti/client/js/app/calendar/edit/editevent.js",
+		"/Users/toomas/dev/orti/client/js/components/select_backbone.js",
+		"/Users/toomas/dev/orti/webpack.prod.config.js",
+		"/Users/toomas/dev/orti/package.json",
+		"/Users/toomas/dev/orti/client/js/components/log.js",
+		"/Users/toomas/phonegap/sortera/client.sublime-project",
+		"/Users/toomas/dev/whm/models/coach.js",
+		"/Users/toomas/dev/whm/managers/change.js",
+		"/Users/toomas/dev/whm/events/attacktypes/offensive.js",
+		"/Users/toomas/dev/whm/managers/events.js",
+		"/Users/toomas/dev/whm/mixins/team.js",
+		"/Users/toomas/dev/whm/prepare.js",
+		"/Users/toomas/dev/whm/mixins/match.js",
+		"/Users/toomas/dev/whm/app.js",
+		"/Users/toomas/dev/whm/events/faceOff.js",
+		"/Users/toomas/dev/whm/managers/puck.js",
+		"/Users/toomas/dev/whm/events/attacks.js",
+		"/Users/toomas/dev/whm/play.js",
+		"/Users/toomas/dev/whm/models/player.js",
+		"/Users/toomas/dev/whm/whm.sublime-project",
+		"/Users/toomas/dev/whm/mixins/player.js",
+		"/Users/toomas/dev/whm/generate/coach.js",
+		"/Users/toomas/dev/whm/generate/match.js",
+		"/Users/toomas/dev/whm/generate/team.js",
+		"/Users/toomas/dev/whm/generate/player.js",
+		"/Users/toomas/dev/whm/generate/goalkeeper.js",
+		"/Users/toomas/dev/whm/mixins/coach.js",
+		"/Users/toomas/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/toomas/dev/whm/managers/coach.js",
+		"/Users/toomas/dev/orti/client/js/app/jobs/job.js",
+		"/Users/toomas/dev/orti/server/app.js",
+		"/Users/toomas/dev/whm/eventTrigger.js",
+		"/Users/toomas/dev/whm/toomas.sublime-project",
+		"/Users/toomas/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/toomas/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/toomas/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/toomas/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/Users/toomas/Library/Application Support/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/Users/toomas/dev/whm/handlers/base.js",
+		"/Users/toomas/dev/ChatBattle/app/play/tutorial/tutorialData.js",
+		"/Users/toomas/dev/ChatBattle/app/tutorial/tutorialData.js",
+		"/Users/toomas/dev/ChatBattle/app/tutorial/tutorial.js",
+		"/Users/toomas/dev/ChatBattle/app/tutorial/tutorialData2.js",
+		"/Users/toomas/dev/ChatBattle/app/play/play.js",
+		"/Users/toomas/dev/ChatBattle/app/components/word.js",
+		"/Users/toomas/dev/ChatBattle/app/play/tutorial/playTutorial.js",
+		"/Users/toomas/dev/ChatBattle/app/components/callout.js",
+		"/Users/toomas/dev/ChatBattle/app/components/letters/letter.js",
+		"/Users/toomas/dev/ChatBattle/proj.sublime-project",
+		"/Users/toomas/dev/whm/simulation/coach.js",
+		"/Users/toomas/dev/whm/routes/match.js",
+		"/Users/toomas/dev/whm/routes/index.js",
+		"/Users/toomas/dev/whm/simulation/match.js",
+		"/Users/toomas/dev/whm/simulation/lineup.js",
+		"/Users/toomas/dev/whm/simulation/arena.js",
+		"/Users/toomas/dev/whm/simulation/team.js",
+		"/Users/toomas/dev/whm/test/tests.js",
+		"/Users/toomas/dev/whm/simulation/player.js",
+		"/Users/toomas/dev/whm/routes/debug.js",
+		"/Users/toomas/dev/whm/simulation/generate.js",
+		"/Users/toomas/dev/whm/mixins/abilities.js",
+		"/Users/toomas/dev/whm/routes/player.js",
+		"/Users/toomas/dev/whm/mixins/index.js",
+		"/Users/toomas/dev/whm/models/ability.js",
+		"/Users/toomas/dev/whm/routes/lineup.js",
+		"/Users/toomas/dev/whm/routes/team.js",
+		"/Users/toomas/dev/whm/in.json",
+		"/Users/toomas/dev/whm/abilities/team.js",
+		"/Users/toomas/dev/whm/proj.sublime-project",
+		"/Users/toomas/dev/whm/blueprints/player.js",
+		"/Users/toomas/dev/whm/out.json",
+		"/Users/toomas/dev/whm/views/rink.js",
+		"/Users/toomas/dev/whm/routes/arena.js",
+		"/Users/toomas/dev/whm/routes/coach.js",
+		"/Users/toomas/dev/harry/server/app.js",
+		"/Users/toomas/dev/whm/routes/players.js",
+		"/Users/toomas/dev/whm/views/game.html",
+		"/Users/toomas/dev/whm/players.js",
+		"/Users/toomas/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/toomas/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/toomas/dev/harry/guides/scripts/backup_cleanup.sh",
+		"/Users/toomas/dev/harry/server-proj.sublime-project",
+		"/Users/toomas/dev/ChatBattle/app/components/owl.js",
+		"/Users/toomas/dev/ChatBattle/app/play/playScore.js",
+		"/Users/toomas/dev/ChatBattle/app/components/letters/plupp.js",
+		"/Users/toomas/dev/ChatBattle/app/chat/chat.js",
+		"/Users/toomas/dev/ChatBattle/app/chat/footer.js",
+		"/Users/toomas/dev/ChatBattle/index.ios.js",
+		"/Users/toomas/dev/ChatBattle/app/components/letter.js",
+		"/Users/toomas/dev/ChatBattle/app/chats/fakeData.js",
+		"/Users/toomas/dev/ChatBattle/app/chat/list.js",
+		"/Users/toomas/dev/ChatBattle/package.json",
+		"/Users/toomas/dev/ChatBattle/app/chat/rows/index.js",
+		"/Users/toomas/dev/ChatBattle/app/play/versus.js",
+		"/Users/toomas/dev/ChatBattle/app/play/tutorialData.js",
+		"/Users/toomas/dev/ChatBattle/app/components/letterChallenge.js",
+		"/Users/toomas/dev/ChatBattle/app/chats/index.ios.js",
+		"/Users/toomas/dev/ChatBattle/app/play/instruction.js",
+		"/Users/toomas/dev/ChatBattle/app/play/playTutorial.js",
+		"/Users/toomas/dev/ChatBattle/app/components/battleButton.js",
+		"/Users/toomas/dev/ChatBattle/app/KeyboardSpaceMixin.js",
+		"/Users/toomas/dev/ChatBattle/app/chat/rows/category.js",
+		"/Users/toomas/dev/ChatBattle/app/chat/rows/styles.js",
+		"/Users/toomas/dev/ChatBattle/app/chat/rows/message.js",
+		"/Users/toomas/dev/ChatBattle/app/misc/scores.js",
+		"/Users/toomas/dev/ChatBattle/app/play/index.js",
+		"/Users/toomas/dev/ChatBattle/app/chat/index.js",
+		"/Users/toomas/dev/ChatBattle/app/ListBase.js",
+		"/Users/toomas/dev/ChatBattle/app/chat/rows/word.js",
+		"/Users/toomas/dev/ChatBattle/app/components/letterAnswer.js",
+		"/Users/toomas/dev/ChatBattle/app/play/answer.js",
+		"/Users/toomas/dev/ChatBattle/app/play/word.js",
+		"/Users/toomas/dev/ChatBattle/app/play/letter.js",
+		"/Users/toomas/dev/ChatBattle/app/chat/fakeData.js",
+		"/Users/toomas/dev/harry/client/index.html",
+		"/Users/toomas/dev/ChatBattle/app/chat/index2.js"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"/Users/toomas/dev/orti/client/js",
+			"/Users/toomas/dev/whm",
+			"/Users/toomas/dev/sll-learn/js/app",
+			"/Users/toomas/dev/harry/server",
+			"/Users/toomas/dev/ChatBattle/app",
+			"/Users/toomas/dev/ChatBattle/app/components",
+			"/Users/toomas/dev/ChatBattle/app",
+			"/Users/toomas/Downloads/react-native-fbsdk-master/Sample",
+			"/Users/toomas/phonegap/sortera/server/routes",
+			"/Users/toomas/dev/harry/server",
+			"/Users/toomas/dev/harry/server/routes",
+			"/Users/toomas/dev/lib/Starling-Framework/starling/src/starling",
+			"",
+			"/Users/toomas/dev/harry/client/js",
+			"/Users/toomas/dev/sll-learn/js",
+			"/Users/toomas/dev/harry/server/routes",
+			"/Users/toomas/dev/harry/client/js",
+			"/Users/toomas/dev/harry/client/js/lib",
+			"/Users/toomas/dev/harry/client/js",
+			"/Users/toomas/phonegap/sortera/client/www/js",
+			"/Users/toomas/phonegap/sortera/client/www/js/views",
+			"/Users/toomas/dev/sll-learn/js",
+			"/Users/toomas/dev/sll-learn_old/js",
+			"/Users/toomas/dev/sll-learn/",
+			"/Users/toomas/dev/sll-learn/js",
+			"/Users/toomas/dev/sll-learn",
+			"/Users/toomas/dev/react-starter",
+			"/Users/toomas/dev/harry/client,-/Users/toomas/dev/harry/server/node_modules/*",
+			"/Users/toomas/dev/harry/server,-/Users/toomas/dev/harry/server/node_modules/*",
+			"/Users/toomas/dev/harry/server,-/Users/toomas/dev/harry/server/node_modules",
+			"/Users/toomas/dev/harry/server/thord,/Users/toomas/dev/harry/server/routes",
+			"",
+			"/Users/toomas/phonegap/sortera/client/www/js/views",
+			"/Users/toomas/phonegap/sortera/client/www",
+			"/Users/toomas/phonegap/sortera/client/www/js",
+			"",
+			"Date.now()",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"new AidTypeModel(data[i])",
+			"isFunction",
+			"onsave",
+			"logs",
+			"findByIdAndUpdate",
+			"getlineupplayers",
+			"match.random",
+			"match.float",
+			"match.int",
+			"match.random",
+			"random",
+			"replace",
+			"addStat",
+			"match.tick",
+			"match.ticks",
+			"match.floatbetween",
+			"match.intbetween",
+			"match.random",
+			"Events",
+			"Connect",
+			"eventTrigger",
+			"finalStats",
+			"final",
+			"skillgroups",
+			"events_list",
+			"weight_list",
+			"dialog1",
+			"fs",
+			"require('fs",
+			"fs",
+			"console.log",
+			"dreamwalk",
+			"sendMessage",
+			"toggleChat",
+			"toggleBattle",
+			"console",
+			"fontWeight",
+			"emit",
+			"expectChat",
+			"this.props.chat",
+			"\"back\"",
+			"'back'",
+			"back",
+			"      	<View style={{flexDirection:'column', flex:1, backgroundColor: '#F5FCFF', marginBottom:this.state.keyboardSpace-40}}>\n		      <Animated.View style={[styles.container, {}]}>\n		      	<View style={{marginTop: 70, marginBottom:10 }}>\n		        <Word text={this.props.challenge} type=\"challenge\" />\n		        </View>\n		        <Word text={answer} type=\"answer\" />\n		      </Animated.View>\n		      <View style={{ flexDirection:'row', alignItems:'center', backgroundColor: '#F5FCFF', height:40 }}>\n	        		<TextInput\n		        		ref=\"input\"\n		        		style={styles.textInput}\n		        		value={this.state.text}\n		        		onChangeText={(text) => this.setState({text:text})}\n		        		onSubmitEditing = {this.sendMessage}\n	       		/>\n	    		</View>\n	      </View>)",
+			";",
+			" is worth ",
+			"		let {\n		      duration,\n		      endCoordinates: { height }\n		      } = keyboardEvent;",
+			"this.setTimeout(\n() => { this.setState(borderWidth:) },\n500\n);",
+			"		      () => { this.setState(borderWidth:) },\n				      500\n					);",
+			"flexDirection:'column', ",
+			"localhost:8081",
+			"console",
+			"session",
+			"logError",
+			"admin",
+			"exec",
+			"daily_reward",
+			"MissingContext",
+			"empty",
+			"timestamp",
+			"gameData.timestamp",
+			"console",
+			"SelectDivision",
+			"selectDivision",
+			"1350573",
+			"console.log",
+			"window.onStartPlay = function () {\n	window.document.getElementById('video-wrapper').onclick = '';\n\n	var is_firefox = navigator.userAgent.toLowerCase().indexOf('firefox') > -1;\n	if (is_firefox)\n	return;\n\n	try {\n	window.document.getElementById('intro').play();   \n	}\n	catch (e) {\n	}\n	};",
+			".name",
+			"console.log",
+			"console-log",
+			"{\"name\":{\"first\":\"Toomas\",\"last\":\"Hommik\"},\"groups\":[\"534538d54eb3dff924f7deb7\"],\"settings\":{\"job\":{\"user\":\"\",\"group\":\"546a539de38cd80a2d456c3f\"},\"referral\":{\"user\":\"\",\"group\":\"546a539de38cd80a2d456c3f\"}},\"_id\":\"534538d54eb3dff924f7debd\",\"rights\":[\"enter_order\",\"read_journal\",\"write_journal\",\"reception\",\"invoice\",\"customer\",\"articles\",\"users\",\"groups\",\"measurements\"],\"tabs\":[{\"_id\":\"55505c8cae94f63188b3e58f\",\"name\":\"Inkomna\",\"query\":{\"group\":\"546a539de38cd80a2d456c3f\"},\"active\":true,\"documents\":[\"referrals\",\"prescriptions\"]},{\"_id\":\"55505c8cae94f63188b3e58e\",\"name\":\"Överförda\",\"query\":{\"status\":\"Transferred\"},\"active\":true,\"documents\":[\"referrals\"]}],\"fullname\":\"Toomas Hommik\"}",
+			"\"y8\"",
+			".id =",
+			"jsx!",
+			"app/",
+			"jsx!",
+			"'use strict';\n\nvar gulp = require('gulp');\nvar path = require('path');\nvar webpack = require('gulp-webpack');\nvar compass = require('gulp-compass');\nvar runSequence = require('run-sequence');\nvar gls = require('gulp-live-server');\nvar clean = require('gulp-clean');\n\nvar DEBUG = true;\n\ngulp.task('clean', function() {\n    return gulp.src(['./client/build', './client/stylesheets']).pipe(clean());\n});\n\ngulp.task('compass', function(callback) {\n  return gulp.src('./client/sass/*.scss')\n  .pipe(compass({\n    project: path.join(__dirname, './client'),\n    css: 'stylesheets',\n    sass: 'sass',\n    style: DEBUG ? 'nested' : 'compressed',\n    comments: DEBUG,\n    image: 'img',\n    javascript: 'js',\n    sourcemap: DEBUG,\n    task: DEBUG ? \"watch\" : 'compile',\n  }))\n  .pipe(gulp.dest('./client/stylesheets'));\n});\n\ngulp.task('bundle', function(cb) {\n  var config = DEBUG ? require('./webpack.config.js') : require('./webpack.prod.config.js');\n  return gulp.src('./client/js/app/index.js')\n    .pipe(webpack(config))\n    .pipe(gulp.dest('./client/build/'));\n});\n\ngulp.task('server', function () {\n    var server = gls.new('./server/harry.js');\n    server.start();\n    gulp.watch('./server/*.js', server.start);\n});\n\ngulp.task('run', ['clean'], function(callback) {\n  DEBUG = true;\n  runSequence(['compass', 'bundle', 'server'], callback);\n});\n\ngulp.task('prod', ['clean'], function(callback) {\n  DEBUG = false;\n  runSequence(['compass', 'bundle'], callback);\n});\n\n",
+			"'use strict';\n\nvar gulp = require('gulp');\nvar path = require('path');\nvar webpack = require('gulp-webpack');\nvar compass = require('gulp-compass');\nvar runSequence = require('run-sequence');\nvar gls = require('gulp-live-server');\nvar clean = require('gulp-clean');\n\nvar DEBUG = true;\n\ngulp.task('clean', function() {\nreturn gulp.src(['./client/build', './client/stylesheets']).pipe(clean());\n});\n\ngulp.task('compass', function(callback) {\nreturn gulp.src('./client/sass/*.scss')\n.pipe(compass({\nproject: path.join(__dirname, './client'),\ncss: 'stylesheets',\nsass: 'sass',\nstyle: DEBUG ? 'nested' : 'compressed',\ncomments: DEBUG,\nimage: 'img',\njavascript: 'js',\nsourcemap: DEBUG,\ntask: DEBUG ? \"watch\" : 'compile',\n}))\n.pipe(gulp.dest('./client/stylesheets'));\n});\n\ngulp.task('bundle', function(cb) {\nvar config = DEBUG ? require('./webpack.config.js') : require('./webpack.prod.config.js');\nreturn gulp.src('./client/js/app/index.js')\n.pipe(webpack(config))\n.pipe(gulp.dest('./client/build/'));\n});\n\ngulp.task('server', function () {\nvar server = gls.new('./server/harry.js');\nserver.start();\ngulp.watch('./server/*.js', server.start);\n});\n\ngulp.task('run', ['clean'], function(callback) {\nDEBUG = true;\nrunSequence(['compass', 'bundle', 'server'], callback);\n});\n\ngulp.task('prod', ['clean'], function(callback) {\nDEBUG = false;\nrunSequence(['compass', 'bundle'], callback);\n});\n\n",
+			"'use strict';\n\nvar gulp = require('gulp');\nvar path = require('path');\nvar webpack = require('gulp-webpack');\nvar compass = require('gulp-compass');\nvar runSequence = require('run-sequence');\nvar gls = require('gulp-live-server');\nvar clean = require('gulp-clean');\n\nvar DEBUG = true;\n\ngulp.task('clean', function() {\n		return gulp.src(['./client/build', './client/stylesheets']).pipe(clean());\n});\n\ngulp.task('compass', function(callback) {\n	return gulp.src('./client/sass/*.scss')\n	.pipe(compass({\n		project: path.join(__dirname, './client'),\n		css: 'stylesheets',\n		sass: 'sass',\n		style: DEBUG ? 'nested' : 'compressed',\n		comments: DEBUG,\n		image: 'img',\n		javascript: 'js',\n		sourcemap: DEBUG,\n		task: DEBUG ? \"watch\" : 'compile',\n	}))\n	.pipe(gulp.dest('./client/stylesheets'));\n});\n\ngulp.task('bundle', function(cb) {\n	var config = DEBUG ? require('./webpack.config.js') : require('./webpack.prod.config.js');\n	return gulp.src('./client/js/app/index.js')\n		.pipe(webpack(config))\n		.pipe(gulp.dest('./client/build/'));\n});\n\ngulp.task('server', function () {\n		var server = gls.new('./server/harry.js');\n		server.start();\n		gulp.watch('./server/*.js', server.start);\n});\n\ngulp.task('run', ['clean'], function(callback) {\n	DEBUG = true;\n	runSequence(['compass', 'bundle', 'server'], callback);\n});\n\ngulp.task('prod', ['clean'], function(callback) {\n	DEBUG = false;\n	runSequence(['compass', 'bundle'], callback);\n});\n\n",
+			"navbar",
+			"user",
+			">;\n",
+			"						<ul className=\"nav navbar-nav navbar-right user\">\n						  <li>\n						  \n						  </li>\n						</ul>",
+			"define(function(require) {\n    var React = require('react');\n    var Backbone = require('backbone');\n    var shim = require('backbone.queryparams-1.1-shim');\n    var BackboneQueryParams = require('backbone.queryparams');\n    var AdminHeaderClass = require('header/adminHeader');\n\n    var AdminHeader = React.createFactory(AdminHeaderClass);\n\n    var AdminRouter = Backbone.Router.extend({\n        routes: {\n            'admin/login' : 'login',\n            'admin/articles' : 'articles',\n            'admin/articles/(:id)' : 'article',\n            'admin/users' : 'users',\n            'admin/users/(:id)' : 'user',\n            'admin/groups' : 'groups',\n            'admin/groups/(:id)' : 'group',\n            'admin/templates': 'templates',\n            'admin/templates/(:id)': 'template',\n            'admin/statistics': 'statistics'\n        },\n        login: function () {\n            React.unmountComponentAtNode(document.getElementById('content'));\n            var LoginClass = require('jsx!app/login')\n            var Login = React.createFactory(LoginClass);\n            React.render( Login(), document.getElementById('header')); \n        },\n        articles: function () {\n            React.render( AdminHeader(), document.getElementById('header'));\n                var AdminArticlesClass = require('admin/articles');\n                var AdminArticles = React.createFactory(AdminArticlesClass);\n                React.render( AdminArticles(), document.getElementById('content'));\n        },\n        article: function (id) {\n            React.render( AdminHeader(), document.getElementById('header'));\n                var AdminArticleClass = require('admin/article');\n                var AdminArticle = React.createFactory(AdminArticleClass);\n                React.render( AdminArticle({id:id}), document.getElementById('content'));\n        },\n        users: function () {\n            React.render( AdminHeader(), document.getElementById('header'));\n            var AdminUsersClass = require('admin/users');\n            var AdminUsers = React.createFactory(AdminUsersClass);\n            React.render( AdminUsers(), document.getElementById('content'));\n        },\n        user: function (id) {\n            React.render( AdminHeader(), document.getElementById('header'));\n            var AdminUserClass = require('admin/user');\n            var AdminUser = React.createFactory(AdminUserClass);\n            React.render( AdminUser({id:id}), document.getElementById('content'));\n        },\n        groups: function () {  \n            React.render( AdminHeader(), document.getElementById('header'));\n            var AdminGroupsClass = require('admin/groups');\n            var AdminGroups = React.createFactory(AdminGroupsClass);\n            React.render( AdminGroups(), document.getElementById('content'));\n        },\n        group: function (id) {  \n            React.render( AdminHeader(), document.getElementById('header'));\n            var AdminGroupClass = require('admin/group');\n            var AdminGroup = React.createFactory(AdminGroupClass);\n            React.render( AdminGroup({id:id}), document.getElementById('content'));\n        },\n        templates: function (id) {\n            React.render( AdminHeader(), document.getElementById('header'));\n            var TemplatesClass = require('admin/templates');\n            var Templates = React.createFactory(TemplatesClass);\n            React.render( Templates(), document.getElementById('content'));\n        },\n        template: function (id) {\n            React.render( AdminHeader(), document.getElementById('header'));\n            var TemplateClass = require('admin/template');\n            var Template = React.createFactory(TemplateClass);\n            React.render( Template({id:id}), document.getElementById('content'));\n        },\n        statistics: function () {\n            React.render( AdminHeader(), document.getElementById('header'));\n            //require.ensure([], () => {\n                var StatisticsClass = require('admin/statistics');\n                var Statistics = React.createFactory(StatisticsClass);\n                React.render( Statistics(), document.getElementById('content'));\n            //});\n        }\n    });\n\n    return AdminRouter;\n});",
+			"populate",
+			"right",
+			"post-it",
+			"comment",
+			"läkemdels",
+			"onsave",
+			"audio_btn",
+			"./img/",
+			"keybind",
+			"\"sv\"",
+			"'sv'",
+			"'se'",
+			"alert(",
+			"setLanguage",
+			"norsk",
+			"getdefaultprops",
+			"[",
+			"console.log",
+			"amoun",
+			"beställning",
+			"data",
+			"<h4>",
+			"<h3>",
+			"showText",
+			"text",
+			"pdf",
+			"[br]",
+			"-Regular",
+			"inverse",
+			"container-fluid",
+			"header",
+			"url(",
+			"landing\nlanding\nlanding\n",
+			"landing\n",
+			"\n",
+			"8080",
+			"80",
+			"console",
+			"groupsandusers",
+			"attributes",
+			".attributes",
+			"sub-item",
+			"summary",
+			"];\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"eventsList",
+			"weightList",
+			":",
+			"",
+			"-regular-webfont",
+			"this.props.model",
+			"obj",
+			"model",
+			"obj",
+			"model",
+			"Job",
+			"fontFamily",
+			"\"btn btn-default\"",
+			"fa fa-",
+			"className=",
+			"Date.now()",
+			"version"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								230
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1909,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/page1.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": true,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/toomas/dev/orti/webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								637,
+								728
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/screen.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/toomas/dev/orti/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								990,
+								1009
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 533.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 94.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 267.0
+	},
+	"output.find_results":
+	{
+		"height": 103.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "client.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"event",
+				"js/models/event.js"
+			],
+			[
+				"login",
+				"js/app/login.js"
+			],
+			[
+				"user",
+				"models/user.js"
+			],
+			[
+				"app",
+				"js/app/app.js"
+			],
+			[
+				"edite",
+				"js/app/calendar/edit/editevent.js"
+			],
+			[
+				"log",
+				"js/models/log.js"
+			],
+			[
+				"play",
+				"play.js"
+			],
+			[
+				"tea",
+				"mixins/team.js"
+			],
+			[
+				"scree",
+				"sass/screen.scss"
+			],
+			[
+				"psu",
+				"routes/push.js"
+			],
+			[
+				"error",
+				"controllers/error.js"
+			],
+			[
+				"cron",
+				"thord/cron.js"
+			],
+			[
+				"customer",
+				"models/customer.js"
+			],
+			[
+				"cusom",
+				"migration/customers.js"
+			],
+			[
+				"mongo",
+				"controllers/mongo.js"
+			],
+			[
+				"main",
+				"routes/main.js"
+			],
+			[
+				"aut",
+				"routes/auth.js"
+			],
+			[
+				"lo",
+				"js/app/login.js"
+			],
+			[
+				"auth",
+				"routes/auth.js"
+			],
+			[
+				"groups",
+				"models/group.js"
+			],
+			[
+				"jobs",
+				"models/job.js"
+			],
+			[
+				"job",
+				"js/app/jobs/job.js"
+			],
+			[
+				"inbox",
+				"js/app/inbox/inbox.js"
+			],
+			[
+				"pred",
+				"js/app/inbox/search/predefined.js"
+			],
+			[
+				"",
+				"admin.html"
+			],
+			[
+				"const",
+				"controllers/constants.js"
+			],
+			[
+				"getmod",
+				"thord/getModifiedPrescriptions.js"
+			],
+			[
+				"enum",
+				"thord/enums.js"
+			],
+			[
+				"repar",
+				"models/repair.js"
+			],
+			[
+				"logs",
+				"routes/logs.js"
+			],
+			[
+				"prede",
+				"js/app/inbox/search/predefined.js"
+			],
+			[
+				"iso",
+				"js/app/jobs/iso.js"
+			],
+			[
+				"edit",
+				"js/app/calendar/edit/editevent.js"
+			],
+			[
+				"scre",
+				"sass/screen.scss"
+			],
+			[
+				"refer",
+				"js/app/referrals/referrals.js"
+			],
+			[
+				"router",
+				"js/router.js"
+			],
+			[
+				"index",
+				"js/index.js"
+			],
+			[
+				"editevent",
+				"js/app/calendar/edit/editevent.js"
+			],
+			[
+				"gl",
+				"sass/_global.scss"
+			],
+			[
+				"log.js",
+				"js/models/log.js"
+			],
+			[
+				"users",
+				"routes/users.js"
+			],
+			[
+				"getmode",
+				"thord/getModifiedReferrals.js"
+			],
+			[
+				"repai",
+				"routes/repairs.js"
+			],
+			[
+				"presc",
+				"routes/prescriptions.js"
+			],
+			[
+				"pres",
+				"routes/prescriptions.js"
+			],
+			[
+				"re",
+				"routes/repairs.js"
+			],
+			[
+				"rep",
+				"routes/repairs.js"
+			],
+			[
+				"users.js",
+				"routes/users.js"
+			],
+			[
+				"eve",
+				"routes/events.js"
+			],
+			[
+				"referr",
+				"models/referral.js"
+			],
+			[
+				"group",
+				"models/group.js"
+			],
+			[
+				"journal",
+				"js/app/journal.js"
+			],
+			[
+				"measer",
+				"js/app/measurement.js"
+			],
+			[
+				"syncre",
+				"thord/syncRepairs.js"
+			],
+			[
+				"cusstomer",
+				"js/components/buttons/customer.js"
+			],
+			[
+				"month",
+				"src/app/month.js"
+			],
+			[
+				"mea",
+				"js/models/measurement.js"
+			],
+			[
+				"cust",
+				"js/app/customer/customer.js"
+			],
+			[
+				"contact",
+				"js/components/customer/contactInfo.js"
+			],
+			[
+				"shown",
+				"js/components/notes/showNote.js"
+			],
+			[
+				"addnote",
+				"js/components/notes/addNote.js"
+			],
+			[
+				"table",
+				"js/app/jobs/table.js"
+			],
+			[
+				"_global",
+				"sass/_global.scss"
+			],
+			[
+				"head",
+				"js/app/header/header.js"
+			],
+			[
+				"ind",
+				"js/admin/index.js"
+			],
+			[
+				"admin",
+				"js/admin/adminrouter.js"
+			],
+			[
+				"reap",
+				"routes/repairs.js"
+			],
+			[
+				"repari",
+				"models/repair.js"
+			],
+			[
+				"list",
+				"js/admin/components/list.js"
+			],
+			[
+				"harry",
+				"harry.js"
+			],
+			[
+				"commen",
+				"js/components/comment.js"
+			],
+			[
+				"page7",
+				"js/app/page7.js"
+			],
+			[
+				"header",
+				"js/app/header.js"
+			],
+			[
+				"lang",
+				"langtexts.js"
+			],
+			[
+				"news",
+				"js/views/news.js"
+			],
+			[
+				"screen",
+				"sass/screen.scss"
+			],
+			[
+				"arti",
+				"models/article.js"
+			],
+			[
+				"sendt",
+				"js/components/buttons/sendTo.js"
+			],
+			[
+				"checkbo",
+				"js/admin/components/checkboxList.js"
+			],
+			[
+				"print",
+				"sass/print.scss"
+			],
+			[
+				"custoemr",
+				"js/app/customer/customer.js"
+			],
+			[
+				"template",
+				"js/models/template.js"
+			],
+			[
+				"summary",
+				"js/app/customer/summary.js"
+			],
+			[
+				"job.js",
+				"js/app/jobs/job.js"
+			],
+			[
+				"text",
+				"js/app/texts.js"
+			],
+			[
+				"cal",
+				"js/app/calendar/calendar.js"
+			],
+			[
+				"jobs.js",
+				"js/app/jobs/jobs.js"
+			],
+			[
+				"referrals",
+				"js/app/referrals/referrals.js"
+			],
+			[
+				"on_re",
+				"js/components/ok_remove_cancel.js"
+			],
+			[
+				"comm",
+				"js/components/comment.js"
+			],
+			[
+				"serac",
+				"js/app/search.js"
+			],
+			[
+				"glob",
+				"sass/_global.scss"
+			],
+			[
+				"ta",
+				"js/components/textarea.js"
+			],
+			[
+				"notes",
+				"js/components/buttons/notes.js"
+			],
+			[
+				"refe",
+				"js/app/referrals/referrals.js"
+			],
+			[
+				"invoice",
+				"js/components/buttons/invoice.js"
+			],
+			[
+				"articl",
+				"js/app/jobs/articles.js"
+			],
+			[
+				"addjo",
+				"js/components/buttons/addJob.js"
+			],
+			[
+				"repair",
+				"js/app/jobs/repair.js"
+			],
+			[
+				"comme",
+				"js/components/comment.js"
+			],
+			[
+				"ok_",
+				"js/components/ok_cancel.js"
+			],
+			[
+				"ok",
+				"js/components/ok_remove_cancel.js"
+			],
+			[
+				"stair",
+				"js/app/jobs/isoStair.js"
+			],
+			[
+				"article",
+				"js/app/jobs/articles.js"
+			],
+			[
+				"artic",
+				"js/app/jobs/articles.js"
+			],
+			[
+				"sera",
+				"js/app/search.js"
+			],
+			[
+				"model",
+				"js/lib/modelmixin.js"
+			],
+			[
+				"comment",
+				"js/components/comment.js"
+			],
+			[
+				"articles",
+				"js/app/jobs/articles.js"
+			],
+			[
+				"repa",
+				"js/app/jobs/repair.js"
+			],
+			[
+				"tf",
+				"js/components/tf.js"
+			],
+			[
+				"summar",
+				"js/app/customer/summary.js"
+			],
+			[
+				"custom",
+				"js/app/customer/customer.js"
+			],
+			[
+				"sendto",
+				"js/components/buttons/sendTo.js"
+			],
+			[
+				"respons",
+				"js/components/buttons/responsible.js"
+			],
+			[
+				"prescri",
+				"js/app/referrals/prescription.js"
+			],
+			[
+				"reapir",
+				"js/models/repair.js"
+			],
+			[
+				"connect",
+				"js/app/jobs/connect.js"
+			],
+			[
+				"send",
+				"js/components/buttons/sendTo.js"
+			],
+			[
+				"isos",
+				"js/app/jobs/isoStair.js"
+			],
+			[
+				"iso.js",
+				"js/app/jobs/iso.js"
+			],
+			[
+				"prescr",
+				"js/app/referrals/prescription.js"
+			],
+			[
+				"referral",
+				"js/app/referrals/referral.js"
+			],
+			[
+				"prescript",
+				"js/app/referrals/prescription.js"
+			],
+			[
+				"repair.js",
+				"js/app/jobs/repair.js"
+			],
+			[
+				"isostar",
+				"js/app/jobs/isoStair.js"
+			],
+			[
+				"referral.js",
+				"js/app/referrals/referral.js"
+			],
+			[
+				"ser",
+				"js/app/search.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"folders":
+	[{
+		"follow_symlinks": true,
+		"path": "server",
+		"folder_exclude_patterns": []
+	}],
+	"settings":
+	{
+		"tab_size": 4,
+		"translate_spaces_to_tabs": true
+	},
+	"SublimeLinter": {
+		"linters": {
+			"eslint": {
+				"@disable": false,
+				"args": ["--config", "${project}/server/.eslintrc.js"],
+				"chdir": "${project}",
+				"excludes": []
+			}
+		}
+	}
+}
